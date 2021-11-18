@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidDev/LabMidExam/app/src/main/res/drawable/et_black.xml" value="0.15833333333333333" />
+        <entry key="..\:/androidDev/LabMidExam/app/src/main/res/drawable/et_green.xml" value="0.15833333333333333" />
+        <entry key="..\:/androidDev/LabMidExam/app/src/main/res/drawable/et_selector.xml" value="0.15833333333333333" />
+        <entry key="..\:/androidDev/LabMidExam/app/src/main/res/layout/activity_save_info.xml" value="0.25" />
+        <entry key="..\:/androidDev/LabMidExam/app/src/main/res/layout/activity_student.xml" value="0.25" />
+        <entry key="..\:/androidDev/LabMidExam/app/src/main/res/layout/activity_view_info.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
