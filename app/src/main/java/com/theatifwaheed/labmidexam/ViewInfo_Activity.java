@@ -39,7 +39,8 @@ public class ViewInfo_Activity extends AppCompatActivity {
 
         TheAtifWaheed.add(name);
 
-        ShowStudent = new ArrayAdapter<String>(ViewInfo_Activity.this, android.R.layout.simple_dropdown_item_1line, TheAtifWaheed);
+        ShowStudent = new ArrayAdapter<String>(
+                ViewInfo_Activity.this, android.R.layout.simple_dropdown_item_1line, TheAtifWaheed);
         lv_student.setAdapter(ShowStudent);
         ShowStudent.notifyDataSetChanged();
 
@@ -68,6 +69,7 @@ public class ViewInfo_Activity extends AppCompatActivity {
             }
         });
     }
+
 
     @Override
     public void onBackPressed() {
