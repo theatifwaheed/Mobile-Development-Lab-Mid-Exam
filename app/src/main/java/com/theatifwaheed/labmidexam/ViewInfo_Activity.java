@@ -44,7 +44,8 @@ public class ViewInfo_Activity extends AppCompatActivity {
         lv_student.setAdapter(ShowStudent);
         ShowStudent.notifyDataSetChanged();
 
-        lv_student.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        lv_student.setOnItemClickListener(
+                new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Intent sData = new Intent(
